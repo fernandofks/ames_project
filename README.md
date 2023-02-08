@@ -1,2 +1,2 @@
-# ames_project
-EDA feature engineering, modeling and evaluation for the Ames dataset
+# AMES Project
+EDA, feature engineering, modeling and evaluation for the Ames dataset
